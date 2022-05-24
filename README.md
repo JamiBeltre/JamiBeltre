@@ -8,8 +8,10 @@ const jami = {
   tools: [React, Jest, Bootstrap, MaterialUI],
   challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
+```
 
 I love connecting with people, just say Hello 👋!
 
 You can find me 🌍:
-*Linkedin: https://www.linkedin.com/in/jami-beltre-casado-814670222/
+
+-Linkedin: https://www.linkedin.com/in/jami-beltre-casado-814670222/
